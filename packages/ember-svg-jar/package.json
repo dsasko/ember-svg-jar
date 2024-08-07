@@ -107,6 +107,32 @@
     "configPath": "tests/dummy/config",
     "versionCompatibility": {
       "ember": ">=1.13.13"
+    },
+    "public-assets": {
+      "./public/favicons/android-icon-192x192.png": "./favicons/android-icon-192x192.png",
+      "./public/favicons/apple-icon-114x114.png": "./favicons/apple-icon-114x114.png",
+      "./public/favicons/apple-icon-120x120.png": "./favicons/apple-icon-120x120.png",
+      "./public/favicons/apple-icon-144x144.png": "./favicons/apple-icon-144x144.png",
+      "./public/favicons/apple-icon-152x152.png": "./favicons/apple-icon-152x152.png",
+      "./public/favicons/apple-icon-180x180.png": "./favicons/apple-icon-180x180.png",
+      "./public/favicons/apple-icon-57x57.png": "./favicons/apple-icon-57x57.png",
+      "./public/favicons/apple-icon-60x60.png": "./favicons/apple-icon-60x60.png",
+      "./public/favicons/apple-icon-72x72.png": "./favicons/apple-icon-72x72.png",
+      "./public/favicons/apple-icon-76x76.png": "./favicons/apple-icon-76x76.png",
+      "./public/favicons/favicon-16x16.png": "./favicons/favicon-16x16.png",
+      "./public/favicons/favicon-32x32.png": "./favicons/favicon-32x32.png",
+      "./public/favicons/favicon-96x96.png": "./favicons/favicon-96x96.png",
+      "./public/favicons/ms-icon-144x144.png": "./favicons/ms-icon-144x144.png",
+      "./public/fonts/Ubuntu-Bold.ttf": "./fonts/Ubuntu-Bold.ttf",
+      "./public/fonts/Ubuntu-Bold.woff": "./fonts/Ubuntu-Bold.woff",
+      "./public/fonts/Ubuntu-Bold.woff2": "./fonts/Ubuntu-Bold.woff2",
+      "./public/fonts/Ubuntu-Medium.ttf": "./fonts/Ubuntu-Medium.ttf",
+      "./public/fonts/Ubuntu-Medium.woff": "./fonts/Ubuntu-Medium.woff",
+      "./public/fonts/Ubuntu-Medium.woff2": "./fonts/Ubuntu-Medium.woff2",
+      "./public/fonts/Ubuntu-Regular.ttf": "./fonts/Ubuntu-Regular.ttf",
+      "./public/fonts/Ubuntu-Regular.woff": "./fonts/Ubuntu-Regular.woff",
+      "./public/fonts/Ubuntu-Regular.woff2": "./fonts/Ubuntu-Regular.woff2",
+      "./public/index.html": "./index.html"
     }
   },
   "lint-staged": {
